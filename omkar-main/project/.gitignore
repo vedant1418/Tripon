@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Django
+staticfiles/
+media/
+
+# Environment
+.env
+venv/
+
+# OS / Editor
+.DS_Store
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Django
+staticfiles/
+media/
+
+# Environment
+.env
+venv/
+
+# OS / Editor
+.DS_Store
+Python
+__pycache__/
+*.pyc
+*.pyo
+Django
+staticfiles/
+media/
+Environment
+.env
+venv/
+.gitignore.swp
